@@ -1,0 +1,1 @@
+console.log("Salutations, the service worker is running...")
