@@ -1,8 +1,10 @@
 console.log("Salutations, the service worker is running...")
 
 const FILES_TO_CACHE = [
-    '/offline.html'
-    
+    '/offline.html',
+    "/",
+    "/index.js",
+    "/styles.css",
 
 
 ];
